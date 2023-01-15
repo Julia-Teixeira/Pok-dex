@@ -2,8 +2,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-brightgreen"/>
-<img src="https://img.shields.io/github/languages/count/julia-teixeira/Pokedex-React?color=%23fff"/>
-<img src="https://img.shields.io/github/languages/top/julia-teixeira/Pokedex-React?color=%23fff"/>
+<img src="https://img.shields.io/github/languages/count/julia-teixeira/Pok-dex?color=%23fff"/>
+<img src="https://img.shields.io/github/languages/top/julia-teixeira/Pok-dex?color=%23fff"/>
 <img src="https://img.shields.io/github/stars/julia-teixeira?style=social"/>
 </p>
 
